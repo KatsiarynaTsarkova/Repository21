@@ -3,7 +3,7 @@ import telebot
 #Задача 1. Напишите бота для техподдержки. Бот должен записывать обращения 
 # пользователей в файл.
 
-token = "5881190851:AAFtLLkvjldXAF7xUbPArEOE1gxqmqXhngo"
+token = ""
 bot = telebot.TeleBot(token)
 
 
