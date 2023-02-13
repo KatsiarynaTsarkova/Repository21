@@ -5,7 +5,7 @@ import telebot
 # и отправлять ответ обратно пользователю.
 
 
-bot = telebot.TeleBot("5881190851:AAFtLLkvjldXAF7xUbPArEOE1gxqmqXhngo", parse_mode=None)
+bot = telebot.TeleBot(" ", parse_mode=None)
 
 
 @bot.message_handler(commands=['start', 'help'])
